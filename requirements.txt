@@ -1,0 +1,10 @@
+Pillow
+requests
+matplotlib
+numpy
+scipy==1.13.0
+pyopenssl
+flask==3.0.2
+cloud-sql-python-connector[pytds]
+pytest==7.4.3
+pytest-pycodestyle
