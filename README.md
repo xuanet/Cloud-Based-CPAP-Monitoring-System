@@ -1,4 +1,4 @@
-# Cloud-Based CPAP Monitoring System Client/Server Final Project
+# Cloud-Based CPAP Monitoring System
 
 ## Team Members
 - Kevin Xu (kevin.xu807@duke.edu)
